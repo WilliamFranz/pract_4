@@ -1,0 +1,4 @@
+com\emergentes\modelo\Blog.class
+com\emergentes\controlador\LoginControlador.class
+com\emergentes\controlador\MainController.class
+com\emergentes\utiles\ConexionBD.class
